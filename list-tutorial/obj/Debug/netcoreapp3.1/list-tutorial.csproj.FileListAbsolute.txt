@@ -1,0 +1,13 @@
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.csprojAssemblyReference.cache
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.AssemblyInfoInputs.cache
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.AssemblyInfo.cs
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.csproj.CoreCompileInputs.cache
+D:\GitHub\Learning\learning-csharp\list-tutorial\bin\Debug\netcoreapp3.1\list-tutorial.exe
+D:\GitHub\Learning\learning-csharp\list-tutorial\bin\Debug\netcoreapp3.1\list-tutorial.deps.json
+D:\GitHub\Learning\learning-csharp\list-tutorial\bin\Debug\netcoreapp3.1\list-tutorial.runtimeconfig.json
+D:\GitHub\Learning\learning-csharp\list-tutorial\bin\Debug\netcoreapp3.1\list-tutorial.runtimeconfig.dev.json
+D:\GitHub\Learning\learning-csharp\list-tutorial\bin\Debug\netcoreapp3.1\list-tutorial.dll
+D:\GitHub\Learning\learning-csharp\list-tutorial\bin\Debug\netcoreapp3.1\list-tutorial.pdb
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.dll
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.pdb
+D:\GitHub\Learning\learning-csharp\list-tutorial\obj\Debug\netcoreapp3.1\list-tutorial.genruntimeconfig.cache
