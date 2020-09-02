@@ -7,6 +7,10 @@ namespace list_tutorial
     {
         static void Main(string[] args)
         {
+            WorkingWithStrings();
+        }
+        static void WorkingWithStrings()
+        {
             var names = new List<string> {"Tiffini", "Ana", "Felipe"};
             foreach (var name in names)
             {
@@ -22,10 +26,12 @@ namespace list_tutorial
                 Console.WriteLine($"Hello {name.ToUpper()}!");
             }
 
+
             Console.WriteLine($"My name is {names[0]}");
             Console.WriteLine($"I've added {names[2]} and {names[3]} to the list");
 
             Console.WriteLine($"The list has {names.Count} people in it");
+
 
             var index = names.IndexOf("Felipe");
             if (index == -1)
@@ -45,6 +51,13 @@ namespace list_tutorial
             else
             {
                 Console.WriteLine($"The name {names[index]} is at index {index}");
+            }
+
+
+            names.Sort();
+            foreach (var name in names)
+            {
+                Console.WriteLine($"Hello {name.ToUpper()}!");
             }
         }
     }
