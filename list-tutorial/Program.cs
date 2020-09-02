@@ -7,7 +7,18 @@ namespace list_tutorial
     {
         static void Main(string[] args)
         {
-            WorkingWithStrings();
+            // WorkingWithStrings();
+
+            var fibonacciNumbers = new List<int> {1, 1};
+            // creates list of integers and sets first two ints to the value 1
+
+            var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
+            var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+            fibonacciNumbers.Add(previous + previous2);
+
+            foreach (var item in fibonacciNumbers)
+                Console.WriteLine(item);
         }
         static void WorkingWithStrings()
         {
