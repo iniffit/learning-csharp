@@ -12,6 +12,13 @@ namespace classes
         public string Owner { get; set; }
         public decimal Balance { get; }
 
+        // this is a constructor - a member used to initialize objects of the class type.
+        // has same name as the class.
+        public BankAccount(string name, decimal intialBalance)
+        {
+            this.Owner = name;
+            this.Balance = intialBalance;
+        }
         // these two are methods - blocks of code that perform a single function
         public void MakeDeposit(decimal amount, DateTime date, string note)
         {
